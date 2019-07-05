@@ -6,3 +6,24 @@
     color: white;
     font-size: 25px;
 }
+input{
+    margin-top: 0.5rem;
+    width: 285px;
+    height: 40px;
+    border-radius: 12px;
+    text-align: center;
+    background: white;
+    font-family: 'Nova Round', cursive;
+    font-size: 18px;
+    color: #747481;
+}
+button{
+    background-color: transparent !important;
+    border: 2px solid white;
+    border-radius: 30px;
+    margin-top: 1em;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    font-family: 'Nova Round', cursive;
+}
