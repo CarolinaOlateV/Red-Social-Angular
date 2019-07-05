@@ -1,6 +1,5 @@
 body{
     background: linear-gradient(rgb(255, 82, 44),hsl(357, 100%, 69%));
-}
-.container{
+    text-align: center;
     
 }
