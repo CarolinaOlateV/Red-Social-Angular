@@ -1,5 +1,8 @@
-body{
-    background: linear-gradient(rgb(255, 82, 44),hsl(357, 100%, 69%));
-    text-align: center;
-    
+.resgistr{
+    text-align: center;    
+}
+.user-registration{
+    font-family: 'Nova Round', cursive;
+    color: white;
+    font-size: 25px;
 }

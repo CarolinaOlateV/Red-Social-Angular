@@ -1,13 +1,11 @@
-*{
-    margin: 0%;
-    padding: 0%;
+body{
+    text-align: center;
 }
 .image{
     width: 90%;
 }
-body{
-    background: linear-gradient(rgb(255, 82, 44),hsl(357, 100%, 69%));
-    text-align: center;
+.imag{
+    width: 150px;
 }
 
 button{
